@@ -1,0 +1,76 @@
+{
+    "segments": [
+        {
+            "referenceId": "1",
+            "name": "IT & Telecommunications"
+        },
+        {
+            "referenceId": "2",
+            "name": "Insurance"
+        },
+        {
+            "referenceId": "3",
+            "name": "Health, Wellness & Fitness"
+        },
+        {
+            "referenceId": "4",
+            "name": "Financial Services"
+        },
+        {
+            "referenceId": "5",
+            "name": "Non-Profit Organization"
+        },
+        {
+            "referenceId": "6",
+            "name": "Manufacturing"
+        },
+        {
+            "referenceId": "7",
+            "name": "Construction"
+        },
+        {
+            "referenceId": "8",
+            "name": "Consumer (Goods & Services)"
+        },
+        {
+            "referenceId": "9",
+            "name": "Media & Advertising"
+        },
+        {
+            "referenceId": "10",
+            "name": "Hospital & Health Care"
+        },
+        {
+            "referenceId": "11",
+            "name": "Food & Beverages"
+        },
+        {
+            "referenceId": "12",
+            "name": "Pharmaceuticals & Chemicals"
+        },
+        {
+            "referenceId": "13",
+            "name": "Ecommerce & Retail"
+        },
+        {
+            "referenceId": "14",
+            "name": "Automotive"
+        },
+        {
+            "referenceId": "15",
+            "name": "Oil, Energy & Environmental Services"
+        },
+        {
+            "referenceId": "16",
+            "name": "Logistics"
+        },
+        {
+            "referenceId": "17",
+            "name": "Education"
+        },
+        {
+            "referenceId": "18",
+            "name": "Banking"
+        }
+    ]
+}
